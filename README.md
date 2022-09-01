@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iwanrhys92
-- 👀 I’m interested in developing front-end magic
+- 👀 I’m interested in developing front-end wizardry
 - 🌱 I’m currently learning CSS3 tricks, Javascript and Jquery
 - 📫 How to reach me: hello@derwdigitial.co.uk
 
