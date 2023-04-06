@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iwanrhys92
 - 👀 I’m interested in developing front-end wizardry
-- 🌱 I’m currently learning CSS3 tricks, Javascript and Jquery
+- 🌱 My business mostly focuses on Wordpress development
 - 📫 How to reach me: hello@derwdigitial.co.uk
 
 <!---
